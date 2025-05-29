@@ -3,8 +3,10 @@
 This project demonstrates real-time object detection using deep learning techniques. It employs the OpenCV library and the SSD MobileNet pre-trained model to detect objects in video streams. The primary focus is on identifying, localizing, and tracking objects in real-time scenarios such as video surveillance, autonomous vehicles, and more.
 # Features 
 
-*Real-time object detection from video input.
-*Pre-trained SSD MobileNet model for fast and efficient object detection.
+Real-time object detection from video input.
+
+Pre-trained SSD MobileNet model for fast and efficient object detection.
+
 Logging mechanism that records detected objects with timestamps.
 Customizable configurations for video path, model settings, and log file output.
 # Technologies Used 
